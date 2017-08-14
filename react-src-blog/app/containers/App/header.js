@@ -21,7 +21,7 @@ export default class Header extends Component {
           <div className="navbar-header">
             <Link to={'/'} className="navbar-brand">
               <div className="brand-title">
-                <span className="brand-text">肚小肚在git的git博客</span>
+                <span className="brand-text">肚小肚的git</span>
               </div>
             </Link>
           </div>
